@@ -54,13 +54,13 @@ To develop a comprehensive Agro Exports report covering the period of 2020 to 20
 
 -Reduce exportation costs and port fees through policy reforms, digitized port operations, and improved logistics efficiency.
 
--Invest in better transportation networks, including rail and inland waterways, to lower transfer costs and enhance supply chain movement.
+-Investment in better transportation networks, including rail and inland waterways, to lower transfer costs and enhance supply chain movement.
 
--Optimize pricing strategies and focus on value addition (e.g., processing raw products locally) to maximize profitability.
+-Optimize pricing strategies and focus on value addition (e.g.,systems for processing raw products locally) to maximize profitability.
 
 -Expand storage infrastructure and implement digital tracking systems to improve supply chain efficiency and reduce losses.
 
--Leverage trade agreements and market intelligence to unlock new export opportunities and strengthen Nigeria’s global market position.
+-Leverage trade agreements and market intelligence to unlock new export opportunities and strengthen global market position.
 
 
 
