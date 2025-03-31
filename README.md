@@ -37,8 +37,7 @@ To develop a comprehensive Agro Exports report covering the period of 2020 to 20
 -Relattionship between revenue, costs and profits over the years.
 
 -What is the Export quarterly revenue trend like?
-The export quarterly revenue trend exhibits a steady linear progression between 1 to 1.2 billion, with a peak spike in Q4 2021 and the lowest revenue recorded in Q3 2021 and Q4 2022.
-4o
+The export quarterly revenue trend exhibits a steady linear progression between 1 to 1.2 billion, with a high spike in Q4 2021 and the low revenue in Q3 2021 and Q4 2022.
 
 -Top Export products and performance by country.
 products like sesame, cocoa and cashew nuts which are the leading agricultural export products of Nigeria
